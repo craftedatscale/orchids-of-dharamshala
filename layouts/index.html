@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+	{{ partial "banner" site.Data.banner }}
+	{{ partial "spotlight" site.Data.spotlight1AboutTheBook }}
+	{{ partial "gallery" site.Data.galleryGlimpses }}
+	{{ partial "spotlight" site.Data.spotlight2AdvancePraise }}
+	{{ partial "spotlight" site.Data.spotlight3BuyNow }}
+	{{ partial "items" site.Data.itemsStockists }}
+	{{ partial "spotlight" site.Data.spotlight4MeetTheAuthor }}
+	{{ partial "spotlight" site.Data.spotlight5TheMytheGuildTrust }}	
+	{{ partial "footer" . }}
+
+{{ end }}

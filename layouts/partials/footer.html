@@ -1,0 +1,11 @@
+<!-- Footer -->
+<footer class="wrapper style1 align-center">
+    <div class="inner">
+        <p>Built with ❤️ by <a target="_blank" href="https://scale.org.in">Scale</a> for Ashwini Bhatia and <a target="_blank" href="https://themythe.org">The Mythe Guild Trust</a>, on <a target="_blank" href="https://gohugo.io">Hugo</a> and <a target="_blank" href="https://github.com">GitHub</a>. 
+</div>
+</footer>
+
+<!-- FontAwesome JS -->
+{{ range .Site.Params.asset.fontawesome_js -}}
+    <script type="text/javascript" src="{{ . | absURL }}"></script>
+{{- end }}

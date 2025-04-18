@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-in"
+id: "top"
+title : "Botanical photography by Ashwini Bhatia"
+subtitle: |
+content : |
+  
+button:
+  label : "Learn more"
+  link : "#about-the-book"
+image : "images/banner-book-cover.jpg"
+

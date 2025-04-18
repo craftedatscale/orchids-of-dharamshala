@@ -1,0 +1,83 @@
+title: "Glimpses"
+style: "style2 small lightbox onscroll-image-fade-in onscroll-content-fade-in"
+  
+content: |
+  
+pictures:
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/f01.png"
+    thumb: "images/gallery/thumbs/f01.png"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/f02.png"
+    thumb: "images/gallery/thumbs/f02.png"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/f03.png"
+    thumb: "images/gallery/thumbs/f03.png"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/f04.png"
+    thumb: "images/gallery/thumbs/f04.png"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/f05.png"
+    thumb: "images/gallery/thumbs/f05.png"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/f06.png"
+    thumb: "images/gallery/thumbs/f06.png"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/f07.png"
+    thumb: "images/gallery/thumbs/f07.png"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/f08.png"
+    thumb: "images/gallery/thumbs/f08.png"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/f09.png"
+    thumb: "images/gallery/thumbs/f09.png"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/f10.png"
+    thumb: "images/gallery/thumbs/f10.png"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/f11.png"
+    thumb: "images/gallery/thumbs/f11.png"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/f12.png"
+    thumb: "images/gallery/thumbs/f12.png"
+    button: "Details"
+    
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/f12.png"
+    thumb: "images/gallery/thumbs/f12.png"
+    button: "Details"

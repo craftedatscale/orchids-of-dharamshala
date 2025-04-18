@@ -1,0 +1,14 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id : "meet-the-author"
+title : "Meet the Author"
+content: |
+  <strong>Ashwini Bhatia</strong> writes and photographs for the Associated Press in Dharamshala, where he also runs a small cafe, Moonpeak Deli. Over the years, he has walked the surrounding hills keenly observing birds, butterflies, dragonflies, spiders and other local wildlife.<br>
+  <br>  
+  As an amateur botanist he has documented more than 500 species of flowering plants growing wild in the region. <strong><i>Orchids of Dharamshala</i></strong> is his first book.<br>
+  <br>
+  Ashwini is currently working on a set of slim volumes on local trees of the Kangra valley.
+button: 
+  label: "Get in touch"
+  link: "mailto:mcleodwild@gmail.com"
+image: "images/ashwini-author-pic.jpg"
