@@ -1,16 +1,11 @@
 ####################### Spotlight #########################
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in onscroll-content-fade-in"
 id: "advance-praise"
-title : ""
+title : "From the Foreword"
 content: |
-  <h2>An excerpt from the Foreword, by Pradip Krishen, author of <i>Trees of Delhi</i> and <i>Jungle Trees of Central India</i></h2><br>
   <blockquote>I am so delighted with Ashwini Bhatia’s book on the orchids of the Dharamshala area. I know exactly what he means when he says he was unmoved at first, and nearly walked right past his first orchid. “It was an unremarkable plant. Or so it seemed to someone uninitiated like me.”<br>
   <br>
   And then he goes down on his knees... and something wonderful starts to happen.<br>
   <br>
   The result is this beautiful and inspirational book. I don’t know if Ashwini realizes that he stands in a long line of plantspeople who have contributed so much to what we know about plants and their habitats.</blockquote>
-  
-button: 
-  label: "Meet the author"
-  link: "#meet-the-author"
-image: "images/spotlight02.jpg"
+  <strong><a target="_blank" href="https://en.wikipedia.org/wiki/Pradip_Krishen">Pradip Krishen</a>, author of <i>Trees of Delhi</i> and <i>Jungle Trees of Central India</i></strong>

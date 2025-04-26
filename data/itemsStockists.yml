@@ -6,15 +6,15 @@ items:
   - name : "Bahrisons Booksellers"
     content : "Opposite Main Gate, Khan Market, New Delhi – 110003"
     style : "style2 major"
+    
+# feature item loop
+  - name : "Kunzum Books"
+    content : "M-60, Greater Kailash II, New Delhi - 110048"
+    style : "solid style2 major"
 
   # feature item loop
   - name : "Midland Book Shop"
     content : "Shop 20 & 24, Aurobindo Place Market, New Delhi - 110016"
-    style : "solid style2 major"
-    
-  # feature item loop
-  - name : "Kunzum Books"
-    content : "M-60, Greater Kailash II, New Delhi - 110048"
     style : "solid style2 major"
     
   # feature item loop
@@ -76,4 +76,3 @@ items:
   - name : "Pune"
     content : "xx"
     style : "style2 major"
-

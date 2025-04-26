@@ -1,12 +1,12 @@
 ####################### Banner #########################
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-in"
 id: "top"
-title : "Botanical photography by Ashwini Bhatia"
+title : ""
 subtitle: |
 content : |
-  
+  <h2>A Pictorial Guide to Wild Orchids Of Dharamshala</h2>
 button:
-  label : "Learn more"
-  link : "#about-the-book"
+  label : "Preview"
+  link : "#preview"
 image : "images/banner-book-cover.jpg"
 
