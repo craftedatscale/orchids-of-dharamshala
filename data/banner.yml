@@ -5,8 +5,11 @@ title : ""
 subtitle: |
 content : |
   <h2>A Pictorial Guide to Wild Orchids Of Dharamshala</h2>
-button:
-  label : "Preview"
-  link : "#preview"
+  <ul class="actions">
+  <li><a class="button" href="#preview">Preview</a></li>
+  </ul>
+#button:
+#  label : "Preview"
+#  link : "#preview"
 image : "images/banner-book-cover.jpg"
 
