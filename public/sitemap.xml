@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+<<<<<<< HEAD
     <loc>http://192.168.0.124:36757/</loc>
+=======
+    <loc>http://192.168.0.247:1313/</loc>
+>>>>>>> e1e191cacf4ea5c946e7ccfa9f622469001ed9f5
   </url>
 </urlset>
