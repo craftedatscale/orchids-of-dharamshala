@@ -1,6 +1,6 @@
 title: "Preview"
 id : "preview"
-style: "style2 small lightbox onscroll-image-fade-in onscroll-content-fade-in"
+style: "style1 small lightbox onscroll-image-fade-in onscroll-content-fade-in"
   
 content: |
   
