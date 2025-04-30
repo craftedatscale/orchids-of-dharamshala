@@ -1,0 +1,12 @@
+####################### Spotlight #########################
+style: "style3 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "connect-with-us-on-instagram"
+title : "Connect with us on Instagram"
+content: |
+  xx<br>
+  xx
+button:
+  label: "Visit"
+  link: "https://instagram.com/OrchidsOfDharamshala"
+image: "images/orchids-of-dharamshala-instagram.jpg"
+
