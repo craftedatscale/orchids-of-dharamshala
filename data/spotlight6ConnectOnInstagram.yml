@@ -8,5 +8,7 @@ content: |
 button:
   label: "Visit"
   link: "https://instagram.com/OrchidsOfDharamshala"
-image: "images/orchids-of-dharamshala-instagram.jpg"
+  image: ""
+#image: "images/orchids-of-dharamshala-instagram.jpg"
+
 
