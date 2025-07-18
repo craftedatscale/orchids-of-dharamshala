@@ -1,1 +1,1 @@
-theme = 'hugo-story'
+theme = ["baguettebox", "hugo-story"]

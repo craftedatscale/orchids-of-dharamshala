@@ -1,0 +1,54 @@
+title: "Preview"
+id : "preview"
+style: "style1 small lightbox onscroll-image-fade-in onscroll-content-fade-in"
+  
+content: |
+  
+pictures:
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/f02.jpg"
+    thumb: "images/gallery/thumbs/th02.jpg"
+    button: "🔎"
+
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/f03.jpg"
+    thumb: "images/gallery/thumbs/th03.jpg"
+    button: "🔎"
+    
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/f04.jpg"
+    thumb: "images/gallery/thumbs/th04.jpg"
+    button: "🔎"
+    
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/Spread01.jpg"
+    thumb: "images/gallery/thumbs/th-Spread01.jpg"
+    button: "🔎"
+
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/Spread02.jpg"
+    thumb: "images/gallery/thumbs/th-Spread02.jpg"
+    button: "🔎"
+
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/Spread03.jpg"
+    thumb: "images/gallery/thumbs/th-Spread03.jpg"
+    button: "🔎"
+
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/Spread04.jpg"
+    thumb: "images/gallery/thumbs/th-Spread04.jpg"
+    button: "🔎"
+
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/Spread05.jpg"
+    thumb: "images/gallery/thumbs/th-Spread05.jpg"
+    button: "🔎"
