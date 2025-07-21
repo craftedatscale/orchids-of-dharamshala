@@ -3,14 +3,14 @@ content: |
 style: "style1 small onscroll-fade-in"
 items:
   # feature item loop
-  - name : "Bahrisons Booksellers"
-    content : "Opposite Main Gate, Khan Market, New Delhi – 110003"
-    style : "style2 major"
+  #  - name : "Bahrisons Booksellers"
+  #  content : "Opposite Main Gate, Khan Market, New Delhi – 110003"
+  #  style : "style2 major"
     
 # feature item loop
-  - name : "Kunzum Books"
-    content : "M-60, Greater Kailash II, New Delhi - 110048"
-    style : "solid style2 major"
+#- name : "Kunzum Books"
+#    content : "M-60, Greater Kailash II, New Delhi - 110048"
+#    style : "solid style2 major"
 
   # feature item loop
   - name : "Midland Book Shop"
@@ -26,7 +26,32 @@ items:
   - name : "Harmony The Book Shop"
     content : "B1/158 Assi Ghat Road, Varanasi, Uttar Pradesh - 221005"
     style : "solid style2 major"
-    
+
+  # feature item loop
+  - name : "Moon Peak Deli"
+    content : "Temple Road, McLeod Ganj, Himachal Pradesh - 176219"
+    style: "solid style2 major"
+
+  # feature item loop
+  - name : "The Deyzor Bookshop"
+    content : "Kaza, Spiti, Himachal Pradesh - 172114"
+    style : "solid style2 major"
+
+  # feature item loop
+  - name : "BookWorm"
+    content : "Jogiwara Road, McLeod Ganj, Himachal Pradesh - 176219"
+    style : "solid style2 major"
+
+  # feature item loop
+  - name : "Tibet Book Store"
+    content : "Jogiwara Road, McLeod Ganj, Himachal Pradesh - 176219"
+    style : "solid style2 major"
+
+  # feature item loop
+  - name : "Namgyal Book Shop"
+    content: "Temple Road, McLeod Ganj, Himachal Pradesh - 176219"
+    style : "solid style2 major"
+
   # feature item loop
   - name : "Dehradun"
     content : "xx"
