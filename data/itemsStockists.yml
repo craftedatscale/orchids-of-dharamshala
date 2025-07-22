@@ -23,9 +23,9 @@ items:
     style : "solid style2 major"
     
   # feature item loop
-  - name : "Harmony The Book Shop"
-    content : "B1/158 Assi Ghat Road, Varanasi, Uttar Pradesh - 221005"
-    style : "solid style2 major"
+  #  - name : "Harmony The Book Shop"
+  #  content : "B1/158 Assi Ghat Road, Varanasi, Uttar Pradesh - 221005"
+  #  style : "solid style2 major"
 
   # feature item loop
   - name : "Moon Peak Deli"
