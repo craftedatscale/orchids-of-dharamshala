@@ -4,7 +4,8 @@ id: "buy-now"
 title : "Buy online now"
 content: |
   <strong><i>Orchids of Dharamshala</i></strong> is priced at Rs. 1200/-.  <strong>Please take a screenshot of the UPI-based transaction</strong>, for upload into the online form.
+
 button: 
-  label: "Order now"
-  link: "https://forms.gle/es1te9ov4YPUxKGM8"
+    label: "Order now"
+    link: "https://forms.gle/es1te9ov4YPUxKGM8"
 image: "images/qr-the-mythe-guild-trust-with-pp.jpg"
