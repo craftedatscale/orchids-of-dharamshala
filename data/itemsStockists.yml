@@ -21,11 +21,21 @@ items:
   - name : "Piccadilly Books Stall"
     content : "64, Shankar Market, Connaught Place, New Delhi - 110001"
     style : "solid style2 major"
+
+  # feature item loop
+  - name : "The Bookworm"
+    content : "62, Church St, BPL building, Bengaluru, Karnataka - 560001"
+    style : "solid style2 major"
+
+  # feature item loop
+  - name : "Blossom Book House"
+    content : "2, 3rd Floor, Prestige Commercial Complex, Church St, Bengaluru, Karnataka - 560001"
+    style : "solid style2 major"
     
   # feature item loop
-  #  - name : "Harmony The Book Shop"
-  #  content : "B1/158 Assi Ghat Road, Varanasi, Uttar Pradesh - 221005"
-  #  style : "solid style2 major"
+  - name : "Harmony The Book Shop"
+    content : "B1/158 Assi Ghat Road, Varanasi, Uttar Pradesh - 221005"
+    style : "solid style2 major"
 
   # feature item loop
   - name : "Moon Peak Deli"
