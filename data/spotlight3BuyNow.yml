@@ -3,9 +3,12 @@ style: "style3 orient-right content-align-left image-position-center onscroll-im
 id: "buy-now"
 title : "Buy online now"
 content: |
-  <strong><i>Orchids of Dharamshala</i></strong> is priced at Rs. 1200/-.  <strong>Please take a screenshot of the UPI-based transaction</strong>, for upload into the online form.
+  <strong><i>Orchids of Dharamshala</i></strong> is priced at Rs. 1200/-. We have queued the first publishing run for early-to-mid September 2025, and will reach bookstores across India later in the month.<br /><br />
+  We're offering a discount of <strong>20% before mid September</strong> on online orders via the form below. Once <i>Orchids of Dharamshala</i> is on shelves, we'll have a <strong>10% discount on online orders</strong>.<br /><br />
+  Shipping shall be <strong>free within India</strong>. International orders will be provided with tracked shipping, at cost.<br /><br /> 
+  <strong>Please attach a screenshot of your online payment</strong> to help us track and validate the order.
 
 button: 
     label: "Order now"
-    link: "https://forms.gle/i1ba3JXLprHfAnV87"
+    link: "https://forms.gle/KCEswcRyz64RKbLx8"
 image: "images/qr-the-mythe-guild-trust-with-pp.jpg"
