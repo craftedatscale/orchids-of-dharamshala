@@ -48,66 +48,11 @@ items:
     style : "solid style2 major"
 
   # feature item loop
-  - name : "BookWorm"
-    content : "Jogiwara Road, McLeod Ganj, Himachal Pradesh - 176219"
+  - name : "Occidental Book Shop"
+    content : "Dal Lake Road, Near Main Square, McLeod Ganj, Himachal Pradesh - 176219"
     style : "solid style2 major"
 
   # feature item loop
-  - name : "Tibet Book Store"
-    content : "Jogiwara Road, McLeod Ganj, Himachal Pradesh - 176219"
+  - name : "Dharamshala Book Store"
+    content : "Dal Lake Road, Near Main Square, McLeod Ganj, Himachal Pradesh - 176219"
     style : "solid style2 major"
-
-  # feature item loop
-  - name : "Namgyal Book Shop"
-    content: "Temple Road, McLeod Ganj, Himachal Pradesh - 176219"
-    style : "solid style2 major"
-
-  # feature item loop
-  - name : "Dehradun"
-    content : "xx"
-    style : "style2 major"
-    
-  # feature item loop
-  - name : "Chandigarh"
-    content : "xx"
-    style : "style2 major"
-    
-  # feature item loop
-  - name : "Jaipur"
-    content : "xx"
-    style : "style2 major"
-
-  # feature item loop
-  - name : "Lucknow"
-    content : "xx"
-    style : "style2 major"
-
-  # feature item loop
-  - name : "Mysore"
-    content : "xx"
-    style : "style2 major"
-
-  # feature item loop
-  - name : "Bangalore"
-    content : "xx"
-    style : "style2 major"
-
-  # feature item loop
-  - name : "Kolkata"
-    content : "xx"
-    style : "style2 major"
-
-  # feature item loop
-  - name : "Chennai"
-    content : "xx"
-    style : "style2 major"
-    
-  # feature item loop
-  - name : "Mumbai"
-    content : "xx"
-    style : "style2 major"
-    
-  # feature item loop
-  - name : "Pune"
-    content : "xx"
-    style : "style2 major"
