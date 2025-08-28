@@ -3,7 +3,7 @@
 ## -----------------------------------------------
 
 title = "Orchids of Dharamshala"
-copyright = "{year}"
+copyright = "2025"
 
 ## -----------------------------------------------
 ## Publish
@@ -38,6 +38,7 @@ disableKinds = ["taxonomy", "section"]
 
 [Params.social]
   instagram = "https://instagram.com/orchidsofdharamshala"
+  email = "orchids@themythe.org"
 
 [Params.asset]
   fontawesome_css = ["css/fontawesome-all.min.css"]
