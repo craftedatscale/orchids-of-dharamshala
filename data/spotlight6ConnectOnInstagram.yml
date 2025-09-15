@@ -3,7 +3,9 @@ style: "style3 orient-left content-align-left image-position-center onscroll-ima
 id: "connect-with-us-on-instagram"
 title : "Connect with us on Instagram"
 content: |
-  Join us as we celebrate orchids, exploring the Dhauladhars and lower Dharamshala's hills. We look forward to interacting with enthusiasts of ecological heritage via <strong>@OrchidsOfDharamshala</strong>.
+  Join us as we celebrate orchids, exploring the Dhauladhars and lower Dharamshala's hills.<br />
+  <br />
+  We look forward to interacting with enthusiasts of ecological heritage via <strong>@OrchidsOfDharamshala</strong>.
 
 button:
   label: "Visit our Instagram"

@@ -39,35 +39,35 @@ items:
 
   # feature item loop
   - name : "Moonpeak Deli"
-    content : "Temple Road, McLeod Ganj, Himachal Pradesh - 176219"
+    content : "Temple Road, McLeod Ganj, Himachal Pradesh - 176215"
     style: "solid style2 major"
 
   # feature item loop
-  - name : "The Deyzor Bookshop"
-    content : "Kaza, Spiti, Himachal Pradesh - 172114"
+  - name : "The Pilgrim's Pages"
+    content : "Hotel Deyzor, Behind BSNL Office, Kaza, Himachal Pradesh - 172114"
     style : "solid style2 major"
 
   # feature item loop
   - name : "Occidental Book Shop"
-    content : "Dal Lake Road, Near Main Square, McLeod Ganj, Himachal Pradesh - 176219"
+    content : "Dal Lake Road, Near Main Square, McLeod Ganj, Himachal Pradesh - 176215"
     style : "solid style2 major"
 
   # feature item loop
   - name : "Dharamshala Book Store"
-    content : "Dal Lake Road, Near Main Square, McLeod Ganj, Himachal Pradesh - 176219"
+    content : "Dal Lake Road, Near Main Square, McLeod Ganj, Himachal Pradesh - 176215"
     style : "solid style2 major"
 
   # feature item loop
   - name : "Tibet Book Store"
-    content : "Near Dolma Chowk, Jogiwara Road, McLeod Ganj, Himachal Pradesh - 176219"
+    content : "Near Dolma Chowk, Jogiwara Road, McLeod Ganj, Himachal Pradesh - 176215"
     style : "solid style2 major"
 
   # feature item loop
   - name : "Ibex Adventures & Travels"
-    content : "Below Mcllo Hotel, Jogiwara Road, McLeod Ganj, Himachal Pradesh - 176219"
+    content : "Below Mcllo Hotel, Jogiwara Road, McLeod Ganj, Himachal Pradesh - 176215"
     style : "solid style2 major"
 
   # feature item loop
   - name : "High Point Adventure"
-    content : "Temple Road, McLeod Ganj, Himachal Pradesh - 176219"
+    content : "Temple Road, McLeod Ganj, Himachal Pradesh - 176215"
     style : "solid style2 major"
