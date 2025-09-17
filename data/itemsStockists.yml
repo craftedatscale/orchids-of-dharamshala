@@ -22,6 +22,11 @@ items:
     content : "64, Shankar Market, Connaught Place, New Delhi - 110001"
     style : "solid style2 major"
 
+# feature item loop
+# name : "Planterie"
+#    content : "Building #4, Ground Floor, Panchsheel Community Centre, New Delhi - 110017"
+#    style : "solid style2 major"
+
   # feature item loop
   - name : "The Bookworm"
     content : "62, Church St, BPL building, Bengaluru, Karnataka - 560001"
