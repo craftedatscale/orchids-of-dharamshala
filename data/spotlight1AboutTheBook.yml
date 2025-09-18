@@ -3,13 +3,14 @@ style: "style1 orient-right content-align-left image-position-center onscroll-im
 id: "about-the-book"
 title : "About the book"
 content: |
-  <strong><i>Orchids of Dharamshala</i></strong> is a pictorial guide to the wild orchids found between the lower town and the surrounding Dhauladhar hills. It is a result of over five years of exploration and documentation.<br>
+  <strong><i>Orchids of Dharamshala</i><strong> is a pictorial guide to the wild orchids found in Dharamshala town and the surrounding Dhauladhar hills. It is the result of over five years of exploration and documentation.<br>
   <br>
-  This book aims to be part of the evidence of the rich ecological heritage of the Kangra valley, which is at risk due to loss of habitat and environmental changes brought about by rapid, unplanned urban growth in the Himalayas.<br>
+  This book aims to be part of the evidence of the rich natural heritage of the Kangra valley. The fragile eco-systems that have supported orchids and other native forms of plant and insect life in these hills are increasingly at risk due to environmental changes and loss of habitat brought about by unchecked growth.<br>
   <br>
-  Each of the <strong>28 orchid species found in the region</strong> is richly illustrated with detailed photographs to describe their complex anatomy.<br>
+  All of the <strong>28 orchid species found in the region</strong> are richly illustrated with detailed photographs to describe their complex anatomy.<br>
   <br>
-  Whether you are keen to identify the orchids encountered on your hike or you are a serious student of botany, this guide will be a useful companion.
+  Whether you are a student of botany or simply keen to identify the orchids encountered on your hike, this guide will be a useful companion.
+
 button: 
   label: "Buy now"
   link: "#buy-now"
