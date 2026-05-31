@@ -13,66 +13,72 @@ items:
 #    style : "solid style2 major"
 
   # feature item loop
-  - name : "Midland Book Shop"
-    content : "Shop 20 & 24, Aurobindo Place Market, New Delhi - 110016"
-    style : "solid style2 major"
+  #  - name : "Midland Book Shop"
+  #    content : "Shop 20 & 24, Aurobindo Place Market, New Delhi - 110016"
+  #    style : "solid style2 major"
     
   # feature item loop
-  - name : "Piccadilly Books Stall"
-    content : "64, Shankar Market, Connaught Place, New Delhi - 110001"
-    style : "solid style2 major"
+  #  - name : "Piccadilly Books Stall"
+  #    content : "64, Shankar Market, Connaught Place, New Delhi - 110001"
+  #    style : "solid style2 major"
 
 # feature item loop
 # name : "Planterie"
 #    content : "Building #4, Ground Floor, Panchsheel Community Centre, New Delhi - 110017"
 #    style : "solid style2 major"
 
-  # feature item loop
+# feature item loop
+  - name : "The Bookshop Inc"
+    content : "26, Main Market, Lodi Colony, New Delhi - 110003"
+    style : "solid style2 major"
+
+
+# feature item loop
   - name : "The Bookworm"
-    content : "62, Church St, BPL building, Bengaluru, Karnataka - 560001"
+    content : "62, Church St, BPL building, Bengaluru - 560001"
     style : "solid style2 major"
 
   # feature item loop
-  - name : "Blossom Book House"
-    content : "2, 3rd Floor, Prestige Commercial Complex, Church St, Bengaluru, Karnataka - 560001"
-    style : "solid style2 major"
+  #  - name : "Blossom Book House"
+  #    content : "2, 3rd Floor, Prestige Commercial Complex, Church St, Bengaluru, Karnataka - 560001"
+  #    style : "solid style2 major"
     
   # feature item loop
-  - name : "Harmony The Book Shop"
-    content : "B1/158 Assi Ghat Road, Varanasi, Uttar Pradesh - 221005"
-    style : "solid style2 major"
+  #  - name : "Harmony The Book Shop"
+  #   content : "B1/158 Assi Ghat Road, Varanasi, Uttar Pradesh - 221005"
+  #    style : "solid style2 major"
 
   # feature item loop
-  - name : "Moonpeak Deli"
-    content : "Temple Road, McLeod Ganj, Himachal Pradesh - 176215"
-    style: "solid style2 major"
+  #  - name : "Moonpeak Deli"
+  #    content : "Temple Road, McLeod Ganj, Himachal Pradesh - 176215"
+  #   style: "solid style2 major"
 
   # feature item loop
-  - name : "The Pilgrim's Pages"
-    content : "Shop no. 3, Kunzom Inn Complex, Kaza Khas, Kaza, Himachal Pradesh 172114"
-    style : "solid style2 major"
+  #  - name : "The Pilgrim's Pages"
+  #    content : "Shop no. 3, Kunzom Inn Complex, Kaza Khas, Kaza, Himachal Pradesh 172114"
+  #    style : "solid style2 major"
 
   # feature item loop
-  - name : "Occidental Book Shop"
-    content : "Dal Lake Road, Near Main Square, McLeod Ganj, Himachal Pradesh - 176215"
-    style : "solid style2 major"
+  #  - name : "Occidental Book Shop"
+  #    content : "Dal Lake Road, Near Main Square, McLeod Ganj, Himachal Pradesh - 176215"
+  #    style : "solid style2 major"
 
   # feature item loop
-  - name : "Dharamshala Book Store"
-    content : "Dal Lake Road, Near Main Square, McLeod Ganj, Himachal Pradesh - 176215"
-    style : "solid style2 major"
+  #  - name : "Dharamshala Book Store"
+  #    content : "Dal Lake Road, Near Main Square, McLeod Ganj, Himachal Pradesh - 176215"
+  #    style : "solid style2 major"
 
   # feature item loop
-  - name : "Tibet Book Store"
-    content : "Near Dolma Chowk, Jogiwara Road, McLeod Ganj, Himachal Pradesh - 176215"
-    style : "solid style2 major"
+  #  - name : "Tibet Book Store"
+  #    content : "Near Dolma Chowk, Jogiwara Road, McLeod Ganj, Himachal Pradesh - 176215"
+  #    style : "solid style2 major"
 
   # feature item loop
-  - name : "Ibex Adventures & Travels"
-    content : "Below Mcllo Hotel, Jogiwara Road, McLeod Ganj, Himachal Pradesh - 176215"
-    style : "solid style2 major"
+  #  - name : "Ibex Adventures & Travels"
+  #   content : "Below Mcllo Hotel, Jogiwara Road, McLeod Ganj, Himachal Pradesh - 176215"
+  #    style : "solid style2 major"
 
   # feature item loop
-  - name : "High Point Adventure"
-    content : "Temple Road, McLeod Ganj, Himachal Pradesh - 176215"
-    style : "solid style2 major"
+  #  - name : "High Point Adventure"
+  #   content : "Temple Road, McLeod Ganj, Himachal Pradesh - 176215"
+  #    style : "solid style2 major"
